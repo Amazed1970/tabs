@@ -1,0 +1,12 @@
+body{
+  padding:70px !important;
+  background-color: #000 !important;
+}
+
+#containertabs{
+  width:100% !important;
+  
+}
+button{
+  background-color:transparent !important;
+}
